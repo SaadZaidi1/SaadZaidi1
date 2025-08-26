@@ -18,7 +18,7 @@ Welcome to my project portfolio! I am currently pursuing a Bachelor's in Compute
 
 ## 🏗️ Projects
 
-### 1. Flask Starter Kit *(Repo name will be updated soon)*
+### 1. Flask Starter Kit 
 A beginner-friendly repository to learn and build backend applications with Flask.  
 **Features:** Basics of REST APIs, authentication, CRUD operations.
 
