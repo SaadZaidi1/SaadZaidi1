@@ -1,10 +1,58 @@
-- 👋 Hi, I’m @SaadZaidi1
-- 👀 Intrested in learning Machine Learning and Data Science, Full stack development bores meeeee.
-- 🌱 I’m currently learning Pandas, numpy and sklearn.
-- 💞️ I’m looking to collaborate on different projects that will develop my skills and will also look great on my CV.
-- 📫 How to reach me: my email is saadzaidi129@gmail.com. For any projects or questions you can contact me through the provided mail.
+# Saad Zaidi – Portfolio
 
-<!---
-SaadZaidi1/SaadZaidi1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my project portfolio! I am currently pursuing a Bachelor's in Computer Science from FAST University, with a passion for backend development, AI/ML, Generative AI, LLMs, LangChain, Automation, and Data Science.
+
+---
+
+## 👨‍💻 About Me
+
+- **University:** FAST University (BS-CS)
+- **Interests:** Backend Development, AI/ML, GenAI, LLMs, LangChain, Automation, Data Science
+- **Languages & Tools:**  
+  - Python, Flask, C++, HTML, CSS, JavaScript  
+  - ML Libraries: scikit-learn, TensorFlow, Pandas, NumPy, Matplotlib
+
+- **LinkedIn:** [Saad Zaidi](https://www.linkedin.com/in/saad-zaidi-42a253357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+---
+
+## 🏗️ Projects
+
+### 1. Flask Starter Kit *(Repo name will be updated soon)*
+A beginner-friendly repository to learn and build backend applications with Flask.  
+**Features:** Basics of REST APIs, authentication, CRUD operations.
+
+### 2. Digit Recognizer
+A machine learning project to recognize handwritten digits using popular ML algorithms and Python libraries.  
+**Tech Stack:** Python, scikit-learn, TensorFlow, Pandas, Matplotlib
+
+### 3. Heart Disease Prediction
+A data science project to predict the likelihood of heart disease using various ML models.  
+**Tech Stack:** Python, Flask, scikit-learn, Pandas, Matplotlib
+
+---
+
+## 🚀 Skills
+
+- **Programming:** Python, C++, HTML, CSS, JavaScript
+- **Frameworks:** Flask
+- **AI/ML:** scikit-learn, TensorFlow, Pandas, NumPy, Matplotlib
+- **Special Focus:** GenAI, LLM, LangChain, Automation
+
+---
+
+## 📈 Next Steps
+
+- Adding more GenAI and LangChain projects.
+- Growing my expertise in automation and data science.
+
+---
+
+## 📫 Contact
+
+Feel free to connect or collaborate!
+- **LinkedIn:** [Saad Zaidi](https://www.linkedin.com/in/saad-zaidi-42a253357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+---
+
+*Thank you for visiting!*
