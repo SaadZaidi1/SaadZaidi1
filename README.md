@@ -16,7 +16,7 @@
 ---
 
 ## 🎯 Quick Pitch
-Final-year CS student who ships:  
+3rd-year CS student who ships:  
 ✅ RESTful Flask/Django backends with Postgres & Docker  
 ✅ Production RAG chatbots (GPT-4o, LangChain, Weaviate)  
 ✅ ML models trained, evaluated and deployed to Render  
@@ -24,11 +24,11 @@ Final-year CS student who ships:
 ---
 
 ## 🚀 Featured Projects
-| Project | Demo / Repo | Stack | Highlights |
+| Project | Repo / Demo | Stack | Highlights |
 |--------|-------------|-------|------------|
-| **Django AI Feedback Inbox** | 🎥 [60-sec demo](https://loom.com) • 📂 [GitHub](https://github.com/SaadZaidi1/django-ai-feedback) | Django 5, Postgres, Redis, Celery, GPT-4o-mini | Sentiment & emotion tagging, 1-click AI replies, live export |
+| **Django AI Feedback Inbox** | 📂 [GitHub](https://github.com/SaadZaidi1/django-ai-feedback) | Django 5, Postgres, Redis, Celery, GPT-4o-mini | Sentiment analysis, AI-driven feedback triage |
 | **Flask Starter Kit** | 📂 [GitHub](https://github.com/SaadZaidi1/flask-starter-kit) | Flask, SQLAlchemy, JWT | Auth, CRUD, blueprints, unit tests |
-| **Heart-Disease Predictor API** | 📂 [GitHub](https://github.com/SaadZaidi1/heart-disease-predictor) | Flask, scikit-learn, Docker | 87 % F1, Swagger docs, deployed on Render |
+| **Heart-Disease Predictor API** | 📂 [GitHub](https://github.com/SaadZaidi1/heart-disease-predictor) | Flask, scikit-learn, Docker | 87% F1, Swagger docs, deployed on Render |
 
 ---
 
@@ -56,7 +56,6 @@ Ops           : Docker, GitHub Actions, Render, Linux
 - [ ] Ship 3 production Django apps  
 - [ ] Contribute to open-source LangChain repo  
 - [ ] Secure summer internship in Backend / LLM-engineering role  
-
 
 ## 🤝 Let’s Connect
 - LinkedIn: [linkedin.com/in/saad-zaidi-42a253357](https://www.linkedin.com/in/saad-zaidi-42a253357)  
