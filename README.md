@@ -1,69 +1,71 @@
-# Saad Zaidi – Portfolio
+```markdown
+# 👋 Saad Zaidi – Backend & AI Engineer in Training
 
-Welcome to my project portfolio! I am currently pursuing a Bachelor's in Computer Science from FAST University, with a passion for backend development, AI/ML, Generative AI, LLMs, LangChain, and automation.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=056bfa&size=24&width=420&lines=CS Undergrad @ FAST Karachi;Flask • Django • LLMs • RAG;Building AI-first backends" alt="Typing SVG" />
+</p>
 
----
-
-## 👨‍💻 About Me
-
-- **University:** FAST University (BS-CS)
-- **Interests:** Backend Development, AI/ML, GenAI, LLMs, LangChain, Automation, Data Science
-- **Languages & Tools:**  
-  - Python, Flask, C++, HTML, CSS, JavaScript  
-  - ML Libraries: scikit-learn, TensorFlow, Pandas, NumPy, Matplotlib
-- **Flask Experience:** I have learned Flask and built multiple projects using it (authentication, CRUD operations, REST APIs, and more).
-- **LinkedIn:** [Saad Zaidi](https://www.linkedin.com/in/saad-zaidi-42a253357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
----
-
-## 📚 Currently Studying: LLM Engineering
-
-- Exploring frontier models: **GPT**, **Claude**, **Gemini**
-- Exploring open-source models via Hugging Face: **Llama**, **Mistral**
-- Working/learning about: **RAG (Retrieval-Augmented Generation)**, **fine-tuning/LoRA**, **tokens & context windows**, **embeddings & vector databases**
-- Tooling: **LangChain**, **Hugging Face**, and provider APIs (OpenAI, Anthropic, Google)
+<p align="center">
+  <a href="https://www.linkedin.com/in/saad-zaidi-42a253357" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
 
 ---
 
-## 🏗️ Projects
-
-### 1. Flask Starter Kit  
-A beginner-friendly repository to learn and build backend applications with Flask.  
-**Features:** authentication, CRUD operations
-
-### 2. Digit Recognizer  
-A machine learning project to recognize handwritten digits using popular ML algorithms and Python libraries.  
-**Tech Stack:** Python, scikit-learn, TensorFlow, Pandas, Matplotlib
-
-### 3. Heart Disease Prediction  
-A data science project to predict the likelihood of heart disease using various ML models.  
-**Tech Stack:** Python, Flask, scikit-learn, Pandas, Matplotlib
+## 🎯 Quick Pitch
+Final-year CS student who ships:  
+✅ RESTful Flask/Django backends with Postgres & Docker  
+✅ Production RAG chatbots (GPT-4o, LangChain, Weaviate)  
+✅ ML models trained, evaluated and deployed to Render  
 
 ---
 
-## 🚀 Skills
-
-- **Programming:** Python, C++, HTML, CSS, JavaScript
-- **Frameworks:** Flask
-- **AI/ML:** scikit-learn, TensorFlow, Pandas, NumPy, Matplotlib
-- **Special Focus:** GenAI, LLMs, LangChain, Automation, RAG, Fine-tuning, Hugging Face
-
----
-
-## 📈 Next Steps
-
-- Building end-to-end RAG applications and evaluation pipelines
-- Running fine-tuning experiments and prompt engineering at scale
-- Adding more GenAI and LangChain projects
-- Growing my expertise in automation and data science
+## 🚀 Featured Projects
+| Project | Demo / Repo | Stack | Highlights |
+|--------|-------------|-------|------------|
+| **Django AI Feedback Inbox** | 🎥 [60-sec demo](https://loom.com) • 📂 [GitHub](https://github.com/SaadZaidi1/django-ai-feedback) | Django 5, Postgres, Redis, Celery, GPT-4o-mini | Sentiment & emotion tagging, 1-click AI replies, live export |
+| **Flask Starter Kit** | 📂 [GitHub](https://github.com/SaadZaidi1/flask-starter-kit) | Flask, SQLAlchemy, JWT | Auth, CRUD, blueprints, unit tests |
+| **Heart-Disease Predictor API** | 📂 [GitHub](https://github.com/SaadZaidi1/heart-disease-predictor) | Flask, scikit-learn, Docker | 87 % F1, Swagger docs, deployed on Render |
 
 ---
 
-## 📫 Contact
-
-Feel free to connect or collaborate!
-- **LinkedIn:** [Saad Zaidi](https://www.linkedin.com/in/saad-zaidi-42a253357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+## 🛠️ Tech Arsenal
+```
+Languages     : Python, C++, JavaScript
+Backend       : Flask, Django, REST, JWT, Celery, Redis
+Databases     : PostgreSQL, SQLite
+ML / AI       : scikit-learn, TensorFlow, Hugging Face, OpenAI, LangChain
+Ops           : Docker, GitHub Actions, Render, Linux
+```
+*Italic = currently diving deeper*
 
 ---
 
-*Thank you for visiting!*
+## 📚 What I’m Learning Now
+- **Django + Postgres + Redis** micro-services  
+- **Evaluation frameworks** for RAG (RAGAS, TruLens)  
+- **LoRA / QLoRA fine-tuning** on Llama 3 8B  
+- **Django deployment** best-practices (Gunicorn, Whitenoise, Nginx)
+
+---
+
+## 📈 2025 Goals
+- [ ] Ship 3 production Django apps  
+- [ ] Contribute to open-source LangChain repo  
+- [ ] Secure summer internship in Backend / LLM-engineering role  
+
+---
+
+## 🤝 Let’s Connect
+- LinkedIn: [linkedin.com/in/saad-zaidi-42a253357](https://www.linkedin.com/in/saad-zaidi-42a253357)  
+- Email: saad.zaidi@fastmail.pk  
+
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SaadZaidi1&color=056bfa" alt="Profile Views" />
+</p>
+```
