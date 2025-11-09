@@ -59,7 +59,7 @@ Ops           : Docker, GitHub Actions, Render, Linux
 
 ## 🤝 Let’s Connect
 - LinkedIn: [linkedin.com/in/saad-zaidi-42a253357](https://www.linkedin.com/in/saad-zaidi-42a253357)  
-- Email: saad.zaidi@fastmail.pk  
+- Email: saadzaidi129@gmail.com  
 
 ---
 <p align="center">
