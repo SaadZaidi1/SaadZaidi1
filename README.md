@@ -1,4 +1,3 @@
-```markdown
 # 👋 Saad Zaidi – Backend & AI Engineer in Training
 
 <p align="center">
@@ -58,7 +57,6 @@ Ops           : Docker, GitHub Actions, Render, Linux
 - [ ] Contribute to open-source LangChain repo  
 - [ ] Secure summer internship in Backend / LLM-engineering role  
 
----
 
 ## 🤝 Let’s Connect
 - LinkedIn: [linkedin.com/in/saad-zaidi-42a253357](https://www.linkedin.com/in/saad-zaidi-42a253357)  
@@ -68,4 +66,3 @@ Ops           : Docker, GitHub Actions, Render, Linux
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SaadZaidi1&color=056bfa" alt="Profile Views" />
 </p>
-```
