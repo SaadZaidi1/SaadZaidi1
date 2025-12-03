@@ -1,10 +1,6 @@
 # 👋 Saad Zaidi – Backend & AI Engineer in Training
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=056bfa&size=24&width=420&lines=CS Undergrad @ FAST Karachi;Flask • Django • LLMs • RAG;Building AI-first backends"/>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/saad-zaidi-42a253357" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
