@@ -1,7 +1,7 @@
 # 👋 Saad Zaidi – Backend & AI Engineer in Training
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=056bfa&size=24&width=420&lines=CS Undergrad @ FAST Karachi;Flask • Django • LLMs • RAG;Building AI-first backends" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=056bfa&size=24&width=420&lines=CS Undergrad @ FAST Karachi;Flask • Django • LLMs • RAG;Building AI-first backends"/>
 </p>
 
 <p align="center">
